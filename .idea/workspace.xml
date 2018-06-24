@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c667b135-3fee-410f-989b-073a69e8eee2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/조건문/bying_milk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조건문/mandoo_wage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/조건문/study_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반복문/study_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/반복문/study_while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/조건문/mandoo_wage.py" beforeDir="false" afterPath="$PROJECT_DIR$/조건문/mandoo_wage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,25 +16,28 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$bying_milk.coverage" NAME="bying_milk Coverage Results" MODIFIED="1529827486259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$study_while.coverage" NAME="study_while Coverage Results" MODIFIED="1529828518286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$odd___even_number_.coverage" NAME="odd &amp; even number 구분 Coverage Results" MODIFIED="1529829406576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$study_if.coverage" NAME="study_if Coverage Results" MODIFIED="1529827284072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$study_for.coverage" NAME="study_for Coverage Results" MODIFIED="1529829757502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$mandoo_wage.coverage" NAME="mandoo_wage Coverage Results" MODIFIED="1529828043285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="study_if.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/조건문/study_if.py">
+      <file leaf-file-name="odd &amp; even number 구분.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/반복문/odd &amp; even number 구분.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="209">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mandoo_wage.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/조건문/mandoo_wage.py">
+      <file leaf-file-name="study_for.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/반복문/study_for.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="228">
+              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -58,6 +61,9 @@
         <option value="$PROJECT_DIR$/study_if.py" />
         <option value="$PROJECT_DIR$/bying_milk.py" />
         <option value="$PROJECT_DIR$/조건문/mandoo_wage.py" />
+        <option value="$PROJECT_DIR$/반복문/study_while.py" />
+        <option value="$PROJECT_DIR$/반복문/odd &amp; even number 구분.py" />
+        <option value="$PROJECT_DIR$/반복문/study_for.py" />
       </list>
     </option>
   </component>
@@ -95,7 +101,7 @@
             <path>
               <item name="Introduction-to-Python-Business-Automation-inflearn-" type="b2602c69:ProjectViewProjectNode" />
               <item name="Introduction-to-Python-Business-Automation-inflearn-" type="462c0819:PsiDirectoryNode" />
-              <item name="조건문" type="462c0819:PsiDirectoryNode" />
+              <item name="반복문" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,6 +110,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/군/PycharmProjects/Introduction-to-Python-Business-Automation-inflearn-/반복문/study_while.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -125,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mandoo_wage">
+  <component name="RunManager" selected="Python.study_for">
     <configuration name="bying_milk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction-to-Python-Business-Automation-inflearn-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,7 +171,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="study_if" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="odd &amp; even number 구분" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction-to-Python-Business-Automation-inflearn-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,27 +179,69 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/반복문" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\군\PycharmProjects\Introduction-to-Python-Business-Automation-inflearn-\조건문\study_if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문/odd &amp; even number 구분.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="study_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction-to-Python-Business-Automation-inflearn-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/반복문" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문/study_for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="study_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction-to-Python-Business-Automation-inflearn-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/반복문" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/반복문/study_while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.study_if" />
       <item itemvalue="Python.bying_milk" />
       <item itemvalue="Python.mandoo_wage" />
+      <item itemvalue="Python.study_while" />
+      <item itemvalue="Python.study_for" />
+      <item itemvalue="Python.odd &amp; even number 구분" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.study_for" />
+        <item itemvalue="Python.odd &amp; even number 구분" />
+        <item itemvalue="Python.study_while" />
         <item itemvalue="Python.mandoo_wage" />
         <item itemvalue="Python.bying_milk" />
-        <item itemvalue="Python.study_if" />
       </list>
     </recent_temporary>
   </component>
@@ -218,9 +267,9 @@
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.329653" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.329653" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.329653" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -266,8 +315,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/조건문/mandoo_wage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="19">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/반복문/study_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/반복문/odd &amp; even number 구분.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/반복문/study_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
         </state>
       </provider>
     </entry>

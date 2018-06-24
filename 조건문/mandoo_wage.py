@@ -1,5 +1,5 @@
 print('만두가게 임금 계산하는 프로그램')
-name = '추미애'
+name = '홍길동'
 work_start = 9
 work_finished = 14
 worked = work_finished - work_start
