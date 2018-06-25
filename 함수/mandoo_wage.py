@@ -17,6 +17,7 @@ def wage_calculator(worked_hours, wage_per_hour=7530): #함수를 쓰면 좋은�
 for i in range(0, len(employee_list)): #len은 배열의 길이를 출력
     worked = work_finish_list[i] - work_start_list[i]
     wage_of_the_day = wage_calculator(worked) #해당 함수의 경우 wage_per_hour부분을 채우지 않아도 default값이 존재하기 때문에 7530으로 들어간다.
+                                              #만약 다른 값을 넣게 된다면 default값이 아닌 채워진 값으로 계산을 한다.
     print('{}: {}시간 :: {}원'.format(employee_list[i], worked, wage_of_the_day))
 #여기다가 노동법상 4시간마다 휴식시간을 주어야한다. 이 사이에 코드가 10,000줄정도 있다고 생각을 하게 된다면 착지가 어렵게 된다.
 #그러므로, 휴식시간주는 과정을 일일이 추가하는 것이 아니라 함수를 만들어서 가져다가 사용을 하는 방식을 쓴다.
