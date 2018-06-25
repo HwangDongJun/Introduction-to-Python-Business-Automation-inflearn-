@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c667b135-3fee-410f-989b-073a69e8eee2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/함수/mandoo_wage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/함수/study_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/함수/mandoo_wage.py" beforeDir="false" afterPath="$PROJECT_DIR$/함수/mandoo_wage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,8 +34,8 @@
       <file leaf-file-name="mandoo_wage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/함수/mandoo_wage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="228">
+              <caret line="18" column="113" selection-start-line="18" selection-start-column="113" selection-end-line="18" selection-end-column="113" />
             </state>
           </provider>
         </entry>
@@ -63,8 +62,8 @@
         <option value="$PROJECT_DIR$/반복문/study_while.py" />
         <option value="$PROJECT_DIR$/반복문/odd &amp; even number 구분.py" />
         <option value="$PROJECT_DIR$/반복문/study_for.py" />
-        <option value="$PROJECT_DIR$/함수/mandoo_wage.py" />
         <option value="$PROJECT_DIR$/함수/study_function.py" />
+        <option value="$PROJECT_DIR$/함수/mandoo_wage.py" />
       </list>
     </option>
   </component>
@@ -77,7 +76,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -269,8 +268,8 @@
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.49926794" weight="0.329653" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.329653" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.26025236" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.26025236" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -372,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/함수/mandoo_wage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="228">
+          <caret line="18" column="113" selection-start-line="18" selection-start-column="113" selection-end-line="18" selection-end-column="113" />
         </state>
       </provider>
     </entry>
