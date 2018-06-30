@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c667b135-3fee-410f-989b-073a69e8eee2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/python-docx/docx_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Introduction-to-Python-Business-Automation-inflearn-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Introduction-to-Python-Business-Automation-inflearn-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pandas_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/study_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_scrapping_study/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_scrapping_study/web_scrapping_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,37 +17,31 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$odd___even_number_.coverage" NAME="odd &amp; even number 구분 Coverage Results" MODIFIED="1529829406576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
+    <SUITE FILE_PATH="coverage/Study_Python_inflearn_$study_pandas.coverage" NAME="study_pandas Coverage Results" MODIFIED="1530354687036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$write_txt_file.coverage" NAME="write_txt_file Coverage Results" MODIFIED="1529939835911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/파일 출력" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$practice_string.coverage" NAME="practice_string Coverage Results" MODIFIED="1530022281956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/클래스" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$study_if.coverage" NAME="study_if Coverage Results" MODIFIED="1529827284072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$mandoo_wage_txt_csv.coverage" NAME="mandoo_wage_txt_csv Coverage Results" MODIFIED="1529940329340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/파일 출력" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$mandoo_wage__1_.coverage" NAME="mandoo_wage (1) Coverage Results" MODIFIED="1529939173872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/함수" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$mandoo_wage_calculator.coverage" NAME="mandoo_wage_calculator Coverage Results" MODIFIED="1530110239501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/파일 읽기, 쓰기" />
+    <SUITE FILE_PATH="coverage/Study_Python_inflearn_$web_scrapping_example.coverage" NAME="web_scrapping_example Coverage Results" MODIFIED="1530358639369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_scrapping_study" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$mandoo_wage_program.coverage" NAME="mandoo_wage_program Coverage Results" MODIFIED="1530021707156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/클래스" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$bying_milk.coverage" NAME="bying_milk Coverage Results" MODIFIED="1529827486259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$csv_practice.coverage" NAME="csv_practice Coverage Results" MODIFIED="1530190332091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/모듈 이용하기" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$study_while.coverage" NAME="study_while Coverage Results" MODIFIED="1529828518286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$docx_practice.coverage" NAME="docx_practice Coverage Results" MODIFIED="1530288230791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-docx" />
+    <SUITE FILE_PATH="coverage/Study_Python_inflearn_$pandas_excel.coverage" NAME="pandas_excel Coverage Results" MODIFIED="1530356815298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$study_for.coverage" NAME="study_for Coverage Results" MODIFIED="1529829757502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/반복문" />
     <SUITE FILE_PATH="coverage/Introduction_to_Python_Business_Automation_inflearn_$mandoo_wage.coverage" NAME="mandoo_wage Coverage Results" MODIFIED="1529828043285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/조건문" />
     <SUITE FILE_PATH="coverage/Study_Python_inflearn_$csv_writer_practice.coverage" NAME="csv_writer_practice Coverage Results" MODIFIED="1530190853368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/모듈 이용하기" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="docx_practice.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python-docx/docx_practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -78,6 +73,10 @@
         <option value="$PROJECT_DIR$/python-docx.py" />
         <option value="$PROJECT_DIR$/python-docx/stduy_python_docx.py" />
         <option value="$PROJECT_DIR$/python-docx/docx_practice.py" />
+        <option value="$PROJECT_DIR$/pandas/study_pandas.py" />
+        <option value="$PROJECT_DIR$/pandas/pandas_excel.py" />
+        <option value="$PROJECT_DIR$/web_scrapping_study/example.html" />
+        <option value="$PROJECT_DIR$/web_scrapping_study/web_scrapping_example.py" />
       </list>
     </option>
   </component>
@@ -91,8 +90,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-387" />
-    <option name="y" value="128" />
+    <option name="x" value="56" />
+    <option name="y" value="-13" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -112,11 +111,6 @@
               <item name="Study_Python-inflearn-" type="b2602c69:ProjectViewProjectNode" />
               <item name="Study_Python-inflearn-" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Study_Python-inflearn-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study_Python-inflearn-" type="462c0819:PsiDirectoryNode" />
-              <item name="python-docx" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -124,11 +118,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/군/PycharmProjects/Introduction-to-Python-Business-Automation-inflearn-/반복문/study_while.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -150,26 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.docx_practice">
-    <configuration name="csv_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Introduction-to-Python-Business-Automation-inflearn-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모듈 이용하기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모듈 이용하기/csv_practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.web_scrapping_example">
     <configuration name="csv_writer_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction-to-Python-Business-Automation-inflearn-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +184,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mandoo_wage_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pandas_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction-to-Python-Business-Automation-inflearn-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,18 +192,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파일 읽기, 쓰기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파일 읽기, 쓰기/mandoo_wage_calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/pandas_excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="practice_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="study_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction-to-Python-Business-Automation-inflearn-" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,31 +211,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/클래스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/클래스/practice_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/study_pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="web_scrapping_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction-to-Python-Business-Automation-inflearn-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_scrapping_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_scrapping_study/web_scrapping_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice_string" />
-      <item itemvalue="Python.mandoo_wage_calculator" />
-      <item itemvalue="Python.csv_practice" />
       <item itemvalue="Python.csv_writer_practice" />
       <item itemvalue="Python.docx_practice" />
+      <item itemvalue="Python.study_pandas" />
+      <item itemvalue="Python.pandas_excel" />
+      <item itemvalue="Python.web_scrapping_example" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.web_scrapping_example" />
+        <item itemvalue="Python.pandas_excel" />
+        <item itemvalue="Python.study_pandas" />
         <item itemvalue="Python.docx_practice" />
         <item itemvalue="Python.csv_writer_practice" />
-        <item itemvalue="Python.csv_practice" />
-        <item itemvalue="Python.mandoo_wage_calculator" />
-        <item itemvalue="Python.practice_string" />
       </list>
     </recent_temporary>
   </component>
@@ -285,11 +280,11 @@
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.49926794" weight="0.329653" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.329653" />
-      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.25867507" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.25867507" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="SciView" order="0" weight="0.329429" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
@@ -309,6 +304,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/python-docx/docx_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python-docx/docx_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -507,8 +509,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python-docx/docx_practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="301">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/mandoo_per_hour.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/study_pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/pandas_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="31" lean-forward="true" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_scrapping_study/web_scrapping_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_scrapping_study/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
